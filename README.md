@@ -1,6 +1,5 @@
 # SkillSolutionsMagazine.github.io
 A magazine for skill solutions academy fill with all training and services provided
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
